@@ -19,6 +19,6 @@ resource "aws_s3_bucket" "niranjan_gitops_bucket" {
   tags = {
     Project = "Project-18"
     Owner   = "Niranjan"
-    Purpose = "GitOps Infra Deployment"
+    Purpose = "GitOps Infra Deployment - Niranjan"
   }
 }
